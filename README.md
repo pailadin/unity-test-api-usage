@@ -21,7 +21,7 @@ Two big problems appeared early on and consumed the bulk of the time on this pro
 
 For the former, unfortunately I neglected to save the links that helped me, but searching for how to use "layout groups" will help.
 
-For the latter, I found [this thread](https://gamedevacademy.org/how-to-connect-to-an-api-with-unity/) with a workaroun.
+For the latter, I found [this thread](https://gamedevacademy.org/how-to-connect-to-an-api-with-unity/) with a workaround.
 
 # Final Thoughts
 
